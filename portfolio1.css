@@ -151,11 +151,14 @@ body {
 }
 
 
-@media (max-width: 400px){
+@media (max-width: 675px){
     #banner-div {
         height: auto;
         text-align: center;
         padding-bottom: 3em;
+    }
+    #recent-post-div {
+        margin-top: -1em;
     }
 }
 
